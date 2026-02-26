@@ -59,7 +59,10 @@
 
 ---
 
- # Education and Activitie
+ # Career & Education & Activitie
+ ### Career
+ 에프엔에스(Frontend) `2025.01 ~ 2025.05`
+ 
  ### Education
  크래프톤 정글 `2025.07 ~ 2025.12`
 

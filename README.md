@@ -67,6 +67,6 @@
  크래프톤 정글 `2025.07 ~ 2025.12`
 
  ### Activitie
- Jungle Dev Club Crew `2026.02 ~ `
+ Jungle Dev Club 운영진 `2026.02 ~ `
 
 

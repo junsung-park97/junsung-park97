@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=70&fontAlignY=35)
 
 ## 👋, Park Jun Sung
-로딩속도를 0s로 만들기 위해 고민하는 프론트엔드 개발자 입니다🔥
 
 새로운 것을 배우고 도전하는 것을 좋아합니다.
 
@@ -54,7 +53,8 @@
 
  # Career & Education & Activitie
  ### Career
- 에프엔에스(Frontend) `2025.01 ~ 2025.05`
+ 에프엔에스(Software Engineer) `2025.01 ~ 2025.05`
+ IDEOLA(Software Engineer) `2026.04 ~ `
  
  ### Education
  크래프톤 정글 `2025.07 ~ 2025.12`

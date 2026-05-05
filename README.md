@@ -36,6 +36,7 @@
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Builder&Infrastructure
 
@@ -54,6 +55,7 @@
  # Career & Education & Activitie
  ### Career
  에프엔에스(Software Engineer) `2025.01 ~ 2025.05`
+ 
  IDEOLA(Software Engineer) `2026.04 ~ `
  
  ### Education

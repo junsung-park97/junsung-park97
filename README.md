@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dev,%20Software%20Engineer&fontSize=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=70&fontAlignY=35)
 
 ## 👋, Park Jun Sung
 로딩속도를 0s로 만들기 위해 고민하는 프론트엔드 개발자 입니다🔥

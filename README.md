@@ -8,17 +8,17 @@
 ---
 
 # Project
-### FlowDesk (~ing)
-
-> 사용자 행동 데이터를 기반으로 AI가 일정의 우선순위를 분석하고 관리해주는 스마트 일정 관리 서비스
-
-[프로젝트 저장소](https://github.com/junsung-park97/FlowDesk)
-
 ### Mate-Trip
 
 > 성향 기반 추천시스템으로 여행 동행자와 장소 매칭 부터 AI Agent와 함께 실시간으로 여행을 설계하는 All-in-One 여행 플랫폼
 
-[프러젝트 저장소](https://github.com/junsung-park97/matetrip-frontend)
+[프로젝트 저장소](https://github.com/junsung-park97/matetrip-frontend)
+
+### PintOS
+
+> 운영체저의 핵심 기능을 직접 구현해보는 x86-64 아키텍처 기반의 교육용 운영체제 프로젝트
+
+[프로젝트 저장소](https://github.com/junsung-park97/PintOS)
 
 ---
 

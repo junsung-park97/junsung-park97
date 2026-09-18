@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI-Native%20Engineer&fontSize=70&fontAlignY=35)
 
 ## 👋, Park Jun Sung
 

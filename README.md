@@ -11,19 +11,23 @@
 
 ### Tutoring_ai
 
+기간 : 26. 08. ~ 진행중
+
 > STT/TTS 기술을 활용한 영어 회화 튜터링 서비스
->
-> 기간 : 26. 08. ~ 진행중
 
 [프로젝트 저장소](https://github.com/junsung-park97/tutor_ai)
 
 ### Mate-Trip
+
+기간 : 25.10 ~ 25.11
 
 > 성향 기반 추천시스템으로 여행 동행자와 장소 매칭 부터 AI Agent와 함께 실시간으로 여행을 설계하는 All-in-One 여행 플랫폼
 
 [프로젝트 저장소](https://github.com/junsung-park97/matetrip-frontend)
 
 ### PintOS
+
+기간 : 25. 09 ~ 25. 10
 
 > 운영체저의 핵심 기능을 직접 구현해보는 x86-64 아키텍처 기반의 교육용 운영체제 프로젝트
 

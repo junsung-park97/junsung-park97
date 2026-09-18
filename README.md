@@ -8,6 +8,13 @@
 ---
 
 # Project
+
+### Tutoring_ai
+
+> STT/TTS 기술을 활용한 영어 회화 튜터링 서비스
+
+[프로젝트 저장소](https://github.com/junsung-park97/tutor_ai)
+
 ### Mate-Trip
 
 > 성향 기반 추천시스템으로 여행 동행자와 장소 매칭 부터 AI Agent와 함께 실시간으로 여행을 설계하는 All-in-One 여행 플랫폼

@@ -12,6 +12,7 @@
 ### Tutoring_ai
 
 > STT/TTS 기술을 활용한 영어 회화 튜터링 서비스
+>
 > 기간 : 26. 08. ~ 진행중
 
 [프로젝트 저장소](https://github.com/junsung-park97/tutor_ai)
